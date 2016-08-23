@@ -1,0 +1,5 @@
+C:\sources\read_config\read_config\bin\Debug\read_config.exe.config
+C:\sources\read_config\read_config\bin\Debug\read_config.exe
+C:\sources\read_config\read_config\bin\Debug\read_config.pdb
+C:\sources\read_config\read_config\obj\Debug\read_config.exe
+C:\sources\read_config\read_config\obj\Debug\read_config.pdb
